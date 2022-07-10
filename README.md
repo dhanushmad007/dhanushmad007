@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @dhanushmad007
 - 👀 I’m interested in Prgramming
-- 🌱 I’m currently learning Kivy @python
+- 👨‍💻 Trained in Python, Machine Learning, Web-Dev, Web-Automation, 2-D Game Designing, Video Editing. 
+- 🌱 I’m currently learning Flutter @python
 - 💞️ I’m looking to collaborate on App Developent and Front End web-Designing
 
 
